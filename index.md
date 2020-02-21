@@ -1,4 +1,4 @@
-## Welcome Henry K's Programming Portfolio
+## Welcome to Henry K's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/klobersaiyan/ProgrammingPortfolio2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
